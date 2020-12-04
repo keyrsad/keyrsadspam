@@ -44,9 +44,7 @@
 # :phone: Example SMS & Call flood:
 ```python3 impulse.py --method SMS --time 20 --threads 15 --target +79514551085```
 
-<p align="center">
-  <img src="https://i.ibb.co/KmPnV9f/Impulse-SMS.png">
-</p>
+
 
 # :moneybag: Donate:
 **BTC:** `1LRKK6nhHpQKwjhfDbgAQKXkUN9nr6VfD`                                                                                   
